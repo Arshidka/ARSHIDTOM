@@ -40,6 +40,8 @@
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys) 
+* [`Ajmal-Achu`](https://github.com/Ajmal-Achu)
+* [`Kannansir`](https://github.com/KANNANSIR)
 * [`aneeslub`](https://github.com/aneeslub) 
   
   
